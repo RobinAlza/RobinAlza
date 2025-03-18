@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinAlza&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=RobinAlza&theme=github_dark_dimmed&hide_border=false"/>
 </p>
 
 
