@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=RobinAlza&theme=github_dark_dimmed&hide_border=false"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=RobinAlza&theme=blue-green&hide_border=false"/>
 </p>
 
 
