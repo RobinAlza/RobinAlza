@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp; 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/Adityakanoi2001">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RobinAlza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
